@@ -53,7 +53,7 @@ li {
 }
 
 .text--purple {
-    color: #6030b1;
+    color: #5cb3ff;
 }
 
 section :nth-child(even) {
@@ -96,7 +96,7 @@ nav {
 }
 
 .nav__link--anchor-primary:hover {
-    background-color: #5d3eff;
+    background-color: #5cb3ff;
 }
 
 .personal__logo {
